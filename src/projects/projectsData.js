@@ -16,15 +16,12 @@ const projects = {
           user-friendly interface and comprehensive features. By conducting
           extensive research and incorporating expert advice, we crafted a
           personalized skincare solution that analyzed users' skin conditions
-          and provided tailored recommendations. Our collaboration not only
-          enhanced our technical abilities but also instilled a deep
-          appreciation for teamwork and the transformative power of technology
-          in the realm of skincare.
+          and provided tailored recommendations.
         </p>
       </>
     ),
     github: "https://github.com/Mohamed-Hedi-Sfaxi/FeelinYourSkin",
-    demo: "https://netlify.com",
+    demo: "",
   },
   2: {
     title: "Smart Fire Detection",
@@ -36,18 +33,12 @@ const projects = {
           project to design and develop a comprehensive system aimed at
           enhancing home security by effectively combating leaks and fires. Our
           innovative solution incorporated IoT technology and a sophisticated
-          fire management model consisting of three alert levels. Through
-          careful planning and implementation, we created a system that
-          seamlessly monitored and detected leaks and flames, allowing for
-          prompt action and minimizing potential damage. This project not only
-          showcased our technical proficiency but also highlighted the
-          importance of leveraging IoT and smart technologies to create safer
-          living environments.
+          fire management model consisting of three alert levels.
         </p>
       </>
     ),
     github: "https://github.com/Mohamed-Hedi-Sfaxi/Smart-Fire-Detection",
-    demo: "https://netlify.com",
+    demo: "",
   },
   3: {
     title: "Pong Game",
@@ -59,17 +50,14 @@ const projects = {
           iconic Pong game. Through coding and creative problem-solving, I
           successfully developed a captivating and nostalgic gaming experience.
           Implementing the game's mechanics, including the bouncing ball,
-          paddles, and scorekeeping, proved to be an engaging challenge. By
-          leveraging Python's capabilities, I crafted an interactive and
-          visually appealing game that captures the essence of the original
-          Pong. This project not only strengthened my programming skills but
-          also allowed me to pay homage to a timeless classic in the world of
-          video games.
+          paddles, and scorekeeping, proved to be an engaging challenge. This
+          project not only strengthened my programming skills but also allowed
+          me to pay homage to a timeless classic in the world of video games.
         </p>
       </>
     ),
     github: "https://github.com/Mohamed-Hedi-Sfaxi/Pong_Game",
-    demo: "https://netlify.com",
+    demo: "",
   },
 };
 

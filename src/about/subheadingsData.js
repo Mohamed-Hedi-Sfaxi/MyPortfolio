@@ -28,10 +28,7 @@ const subheadingsData = {
             passion for cutting-edge technology and a relentless commitment to
             learning, I have embraced the challenges and triumphs of my academic
             journey, equipping myself with a comprehensive understanding of
-            hardware, software, and their integration. This degree will not only
-            solidify my expertise in embedded systems and IoT but also empower
-            me to contribute meaningfully to the ever-evolving landscape of
-            connected devices and smart technologies.
+            hardware, software, and their integration.
           </p>
         </>
       ),
@@ -45,10 +42,7 @@ const subheadingsData = {
             successfully attained my High School Diploma in Science and
             Technology in the year 2019. With an insatiable curiosity for
             scientific exploration and a passion for technological advancements,
-            I eagerly embraced the challenges presented by the curriculum. This
-            achievement not only represents the pinnacle of my hard work and
-            perseverance but also provides me with a solid foundation to pursue
-            my aspirations in the realms of science and technology.
+            I eagerly embraced the challenges presented by the curriculum.
           </p>
         </>
       ),
@@ -65,12 +59,7 @@ const subheadingsData = {
             experience and skills gained during my time there. Working alongside
             talented professionals in a fast-paced environment, I actively
             contributed to the creation and optimization of an educational and
-            entertaining mobile game. This internship not only honed my
-            technical expertise in game development but also sharpened my
-            problem-solving abilities and fostered a deep appreciation for
-            teamwork. With this enriching experience under my belt, I am eager
-            to embrace future opportunities in the vibrant world of game
-            development.
+            entertaining mobile game.
           </p>
         </>
       ),
@@ -85,11 +74,7 @@ const subheadingsData = {
             gained invaluable hands-on experience in the field. Throughout my
             internship, I meticulously maintained and troubleshooted the hotel's
             network infrastructure, ensuring seamless connectivity for guests
-            and staff. This opportunity not only deepened my technical knowledge
-            of network systems but also sharpened my communication and
-            problem-solving skills in a high-pressure hospitality environment.
-            Equipped with this enriching experience, I am eager to further
-            contribute to the ever-evolving world of network technology.
+            and staff.
           </p>
         </>
       ),

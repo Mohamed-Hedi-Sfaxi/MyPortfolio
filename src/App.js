@@ -8,10 +8,19 @@ import Contact from "./contact/Contact";
 import "./styles/app.css";
 import Background from "./background/Background.js";
 import PlayerStats from "./playerStats/PlayerStats.js";
+import { Helmet } from "react-helmet";
 
 const App = () => {
   return (
     <Router>
+      <div className="application">
+        <Helmet>
+          <meta charSet="utf-8" />
+          <title>Personal Portfolio</title>
+          <link rel="canonical" href="http://mysite.com/example" />
+          <meta name="description" content="Get to know me !" />
+        </Helmet>
+      </div>
       <Nav />
       <Background />
       <Routes>
