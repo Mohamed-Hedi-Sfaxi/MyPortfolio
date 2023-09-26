@@ -16,9 +16,9 @@ Welcome to the GitHub repository for my personal portfolio website! This website
 
 ![Screenshot](/screenshot.png)
 
-[Live Website](https://www.yourwebsite.com)
+[Live Website](https://med-hedi-sfaxi.netlify.app)
 
-My personal portfolio website is designed to showcase my skills, projects, and experiences. It provides an overview of who I am, what I do, and what I have achieved in my career as a [insert your profession here]. The website is built with a clean and modern design to provide an excellent user experience.
+My personal portfolio website is designed to showcase my skills, projects, and experiences. It provides an overview of who I am, what I do, and what I have achieved in my career as a [Developer]. The website is built with a clean and modern design to provide an excellent user experience.
 
 ## Technologies Used
 
@@ -28,29 +28,22 @@ Here are the main technologies and tools used in building this website:
   - HTML5
   - CSS3 (including CSS Grid and Flexbox)
   - JavaScript (ES6+)
-  - [Bootstrap](https://getbootstrap.com/)
-  - [Font Awesome](https://fontawesome.com/) icons
+  - [React](https://react.dev)
 
-- **Backend (if applicable)**:
-  - Node.js
-  - Express.js
-  - MongoDB (or your preferred database)
 
 - **Deployment**:
-  - [GitHub Pages](https://pages.github.com/) (for hosting the static website)
-  - [Heroku](https://www.heroku.com/) (for hosting the backend, if applicable)
+  - [Netlify](https://www.netlify.com) (for hosting the static website)
 
 ## Features
 
-- **About Me**: A section that provides a brief introduction to me, my background, and my interests.
+- **About Me**: A section that provides a brief introduction to me, my background, and my experience.
 
-- **Portfolio**: An overview of my projects, complete with descriptions and links to their respective GitHub repositories or live demos.
+- **Skills**: A showcase of the programming languages i know, divided in frontend and backend.
 
-- **Resume**: A downloadable PDF version of my resume for those who want to take a closer look at my qualifications and experience.
+- **Projects**: An overview of my projects, complete with descriptions and links to their respective GitHub repositories.
 
 - **Contact**: A way for visitors to get in touch with me, whether it's for job opportunities, collaborations, or just to say hello.
 
-- **Blog (optional)**: If you have a blog, you can link to it or integrate it into your portfolio to share your thoughts and expertise.
 
 ## Getting Started
 
@@ -59,16 +52,14 @@ If you want to run this website locally or modify it for your own use, follow th
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-portfolio.git
+   git clone https://github.com/Mohamed-Hedi-Sfaxi/MyPortfolio.git
    ```
 
-2. Navigate to the project directory:
+2. Open the project with your favorite editor
 
-   ```bash
-   cd your-portfolio
-   ```
+3. Run a new terminal and type npm install
 
-3. Open the `index.html` file in your preferred web browser to view the website locally.
+4. Then type npm start
 
 ## Usage
 
