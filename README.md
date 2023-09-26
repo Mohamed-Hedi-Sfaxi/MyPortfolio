@@ -14,8 +14,6 @@ Welcome to the GitHub repository for my personal portfolio website! This website
 
 ## Website Overview
 
-![Screenshot](/screenshot.png)
-
 [Live Website](https://med-hedi-sfaxi.netlify.app)
 
 My personal portfolio website is designed to showcase my skills, projects, and experiences. It provides an overview of who I am, what I do, and what I have achieved in my career as a [Developer]. The website is built with a clean and modern design to provide an excellent user experience.
